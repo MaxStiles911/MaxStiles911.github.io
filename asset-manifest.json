@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maxstiles911.github.io/static/css/main.0ca9a4c8.css",
+    "main.js": "/maxstiles911.github.io/static/js/main.96c82f2e.js",
+    "static/js/787.adf52486.chunk.js": "/maxstiles911.github.io/static/js/787.adf52486.chunk.js",
+    "index.html": "/maxstiles911.github.io/index.html",
+    "main.0ca9a4c8.css.map": "/maxstiles911.github.io/static/css/main.0ca9a4c8.css.map",
+    "main.96c82f2e.js.map": "/maxstiles911.github.io/static/js/main.96c82f2e.js.map",
+    "787.adf52486.chunk.js.map": "/maxstiles911.github.io/static/js/787.adf52486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca9a4c8.css",
+    "static/js/main.96c82f2e.js"
+  ]
+}
